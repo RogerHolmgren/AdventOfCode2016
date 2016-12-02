@@ -1,0 +1,6 @@
+C:\Users\deltagare\Documents\AdventOfCode2016\Day2\bin\Debug\Day2.exe.config
+C:\Users\deltagare\Documents\AdventOfCode2016\Day2\bin\Debug\Day2.exe
+C:\Users\deltagare\Documents\AdventOfCode2016\Day2\bin\Debug\Day2.pdb
+C:\Users\deltagare\Documents\AdventOfCode2016\Day2\obj\Debug\Day2.csprojResolveAssemblyReference.cache
+C:\Users\deltagare\Documents\AdventOfCode2016\Day2\obj\Debug\Day2.exe
+C:\Users\deltagare\Documents\AdventOfCode2016\Day2\obj\Debug\Day2.pdb
