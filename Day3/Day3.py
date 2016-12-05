@@ -5,14 +5,14 @@ def is_triangle(a,b,c):
 # Start of program
 possible = []
 total = []
-f = open('input.txt', 'r')
-#f = ["5 10 25","4 4 24"]
-for line in f:
-    t = line.split()
+my_input = open('input.txt', 'r')
+#my_input = ["5 10 25","4 4 24"]
+for sides in my_input:
+    t = sides.split()
     if is_triangle(int(t[0]),int(t[1]),int(t[2])) :
         possible.append(t)
     total.append(t)
-f.close()
+my_input.close()
 print("Valid triangles: {}".format(len(possible)))
 print("Total inputs : {}".format(len(total)))
 
